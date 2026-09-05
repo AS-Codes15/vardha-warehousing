@@ -73,12 +73,12 @@ export default function Footer() {
             <div className="space-y-4 text-slate-300">
               <p>Gorakhnath Mandir Road, Bargadwa, Gorakhpur, Uttar Pradesh</p>
 
-              <p>+91 99999 99999</p>
+              <p>+91 9670111167</p>
 
-              <p>info@vardhawarehousing.com</p>
+              <p>info@vardha.live</p>
 
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919670111167"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="

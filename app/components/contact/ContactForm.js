@@ -241,7 +241,7 @@ export default function ContactForm() {
                   📞 Call Us
                 </h4>
 
-                <p className="text-slate-300">+91 99999 99999</p>
+                <p className="text-slate-300">+91 9670111167</p>
               </div>
 
               <div className="bg-white/5 border border-white/10 rounded-2xl p-5">
@@ -259,7 +259,7 @@ export default function ContactForm() {
                   ✉️ Email Support
                 </h4>
 
-                <p className="text-slate-300">info@vardhawarehousing.com</p>
+                <p className="text-slate-300">info@vardha.live</p>
               </div>
 
               <div className="bg-white/5 border border-white/10 rounded-2xl p-5">
@@ -287,7 +287,7 @@ export default function ContactForm() {
               </div>
 
               <a
-                href="https://wa.me/919999999999"
+                href="https://wa.me/919670111167"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block text-center bg-[#D4A017] hover:bg-[#c39214] text-[#071229] font-semibold py-4 rounded-xl transition mt-4"

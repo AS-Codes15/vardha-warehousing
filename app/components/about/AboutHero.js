@@ -41,7 +41,7 @@ export default function AboutHero() {
             </Link>
 
             <a
-              href="https://wa.me/919999999999"
+              href="https://wa.me/919670111167"
               target="_blank"
               className="border border-white/20 px-8 py-4 rounded-xl"
             >

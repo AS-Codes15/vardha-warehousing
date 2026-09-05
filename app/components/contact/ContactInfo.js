@@ -11,23 +11,23 @@ export default function ContactInfo() {
   {
     icon: "📞",
     title: "Phone",
-    value: "+91 99999 99999",
+    value: "+919670111167",
     action: "Call Now",
-    href: "tel:+919999999999",
+    href: "tel:+919670111167",
   },
   {
     icon: "✉️",
     title: "Email",
-    value: "info@vardhawarehousing.com",
+    value: "info@vardha.live",
     action: "Send Email",
-    href: "mailto:info@vardhawarehousing.com",
+    href: "mailto:info@vardha.live",
   },
   {
     icon: "💬",
     title: "WhatsApp",
     value: "Chat directly with our warehouse team",
     action: "Start Chat",
-    href: "https://wa.me/919999999999",
+    href: "https://wa.me/919670111167",
   },
 ];
 

@@ -47,7 +47,7 @@ export default function Navbar() {
         {/* Desktop CTA */}
         <div className="hidden lg:flex items-center gap-3">
           <a
-            href="https://wa.me/919999999999?text=Hello%20Vardha%20Warehousing,%20I%20need%20warehouse%20space."
+            href="https://wa.me/919670111167?text=Hello%20Vardha%20Warehousing,%20I%20need%20warehouse%20space."
             target="_blank"
             rel="noopener noreferrer"
             className="px-4 py-2 rounded-xl border border-green-500 text-green-400 hover:bg-green-500 hover:text-white transition"
@@ -89,7 +89,7 @@ export default function Navbar() {
             ))}
 
             <a
-              href="https://wa.me/919999999999?text=Hello%20Vardha%20Warehousing,%20I%20need%20warehouse%20space."
+              href="https://wa.me/919670111167?text=Hello%20Vardha%20Warehousing,%20I%20need%20warehouse%20space."
               target="_blank"
               rel="noopener noreferrer"
               className="mt-3 text-center bg-green-600 hover:bg-green-700 text-white py-3 rounded-xl"

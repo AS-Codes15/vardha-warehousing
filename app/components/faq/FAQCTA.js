@@ -19,7 +19,7 @@ export default function FAQCTA() {
         <div className="flex flex-wrap justify-center gap-4">
           
           <a
-            href="https://wa.me/919999999999"
+            href="https://wa.me/919670111167"
             target="_blank"
             rel="noopener noreferrer"
             className="
@@ -37,7 +37,7 @@ export default function FAQCTA() {
           </a>
 
           <a
-            href="tel:+919999999999"
+            href="tel:+919670111167"
             className="
               bg-[#071229]
               hover:bg-[#0D234B]

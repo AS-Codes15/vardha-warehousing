@@ -44,7 +44,7 @@ export default function CTASection() {
             </Link>
 
             <a
-              href="https://wa.me/919999999999?text=Hello%20Vardha%20Warehousing,%20I%20am%20looking%20for%20warehouse%20space."
+              href="https://wa.me/919670111167?text=Hello%20Vardha%20Warehousing,%20I%20am%20looking%20for%20warehouse%20space."
               target="_blank"
               rel="noopener noreferrer"
               className="
