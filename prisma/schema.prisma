@@ -1,0 +1,44 @@
+model Enquiry {
+  id         Int      @id @default(autoincrement())
+  requestId  String   @unique
+
+  name       String
+  email      String
+  phone      String
+
+  company    String?
+  message    String
+
+  createdAt  DateTime @default(now())
+}
+
+model Booking {
+  id              Int      @id @default(autoincrement())
+
+  requestId       String   @unique
+
+  name            String
+  email           String
+  phone           String
+
+  company         String?
+  businessType    String?
+  gst             String?
+
+  length          Float?
+  width           Float?
+  height          Float
+
+  area            Float
+  rate            Float
+  estimatedPrice  Float
+
+  startDate       String?
+  duration        String?
+
+  requirements    String?
+
+  status          String   @default("Pending")
+
+  createdAt       DateTime @default(now())
+}
